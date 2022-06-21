@@ -9,7 +9,7 @@ As you are navigating the technical onboarding, please reference the [Technical 
 ## Resources for Completing the Technical Onboarding
 [Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
 
-[Technical Onboarding Troubleshooting Guide](bing.com)
+[Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md))
 
 [Node.js Video](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
 
