@@ -7,7 +7,7 @@ By completing this Technical Onboarding Process, you will grow your skills with 
 As you are navigating the technical onboarding, please reference the [Technical Onboarding channel](https://teams.microsoft.com/l/channel/19%3a1564c0f5190c48cf87b6becbd8e67511%40thread.tacv2/Technical%2520Onboarding?groupId=37cfc127-05ad-4bd2-bc75-b9f32b9caa30&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f) in the Student Ambassador Teams tenant to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!
 
 ## Resources for Completing the Technical Onboarding
-[Technical Onboarding Instructions](bing.com)
+[Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
 
 [Technical Onboarding Troubleshooting Guide](bing.com)
 
