@@ -1,4 +1,6 @@
-# Section 0: Prerequisites 
+# Technical Onboarding Instructions
+
+## Section 0: Prerequisites 
 
 To get started, complete the following items if you haven’t already 
 
@@ -18,7 +20,7 @@ By completing this Technical Onboarding Process, you will grow your skills with 
  
 As you are navigating the technical onboarding, please reference the Technical Onboarding channel to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
 
-# Section 1: Create a repository 
+## Section 1: Create a repository 
 
 **Why do this section?**
 
@@ -32,7 +34,7 @@ This article uses a GitHub template repository to make it easy for you to get st
 
 3. Select Create repository from template. 
 
-# Section 2: Clone the repository 
+## Section 2: Clone the repository 
 
 **Why do this section?**
 
@@ -48,7 +50,7 @@ Previously you created a GitHub repository that housed the materials needed to c
 
 Note: Make note of the location where the repository is saved.  
 
-# Section 3: Create a static web app 
+## Section 3: Create a static web app 
 
 **Why do this section?**
 
@@ -79,7 +81,7 @@ With the copy created locally, you’re all set to start working on your code an
 
 8. To view the website in the browser, right-click on the project in the Static Web Apps extension, and select Browse Site. 
 
-# Section 4: Customize Your Static Web App 
+## Section 4: Customize Your Static Web App 
 
 **Why do this section? **
 
@@ -107,7 +109,7 @@ We will now do a small customization step customize your webapp you can edit it 
 
 10. When the build is complete, refresh your app and the changes should be reflected  
 
-# Section 5: Complete Your Next Step in GitHub Training with Reviewing Pull Requests 
+## Section 5: Complete Your Next Step in GitHub Training with Reviewing Pull Requests 
 
 **Why do this section?**
   
@@ -119,7 +121,7 @@ By completing this lab, you will learn the foundation of collaboration on GitHub
 
 3. Navigate back to the Reviewing Pull Requests Lab page to confirm you have completed all course steps of the Lab. Input https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/reviewing-a-pull-request/pull/4 into the search bar of your browser to view the “change title on README #4” pull request, scroll down, and confirm that you see the following comment from the github-learning-lab bot at the end of the conversation in the pull request. 
 
-# Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
+## Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
 
 You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub Learning Lab, and your experience with this process. 
  
