@@ -131,6 +131,8 @@ Thank you for completing this exercise!
 
  ## Optional: Creating an Azure Static Web App from an existing GitHub respository
  
+ Video demonstration: https://youtu.be/koA61KD6VzM
+ 
  If you would like to create an Azure Static Web App from an existing GitHub respository on your GitHub account, you can also do that. 
  
 1. Navigate to [Azure](https://portal.azure.com) and log in.
