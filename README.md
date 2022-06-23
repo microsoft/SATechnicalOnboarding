@@ -15,7 +15,7 @@ As you are navigating the technical onboarding, please reference the [Technical 
 
 [JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
-[Static Web Apps Videp](https://docs.microsoft.com/en-gb/shows/azure-tips-and-tricks-static-web-apps/)
+[Static Web Apps Video](https://docs.microsoft.com/en-gb/shows/azure-tips-and-tricks-static-web-apps/)
 
 ## Suggested Prerequisite Materials for Learning About GitHub
 	
