@@ -141,4 +141,35 @@ You will be advanced to the Beta milestone (once you have also hosted an event o
 
 Thank you for completing this exercise!  
 
+ ## Optional: Creating an Azure Static Web App from an existing GitHub respository
+ 
+ Video demonstration: https://youtu.be/koA61KD6VzM
+ 
+ If you would like to create an Azure Static Web App from an existing GitHub respository on your GitHub account, you can also do that. 
+ 
+1. Navigate to [Azure](https://portal.azure.com) and log in.
+2. Serach for Static Web Apps and choose Static Web Apps
+ ![Search for Azure Static Web Apps](https://user-images.githubusercontent.com/32169182/175283447-7d744c7d-020d-462b-8607-f6046b5bb245.png)
+3. Click 'Create'
+ ![CREATE button](https://user-images.githubusercontent.com/32169182/175283630-d5e5bb35-53ba-4d2d-92d1-853d3f606371.png)
+4. Choose your Azure subscription (yours may be called Visual Studio Enterprise or Azure for Students), then click Crate New for your resource group and give it a name, for example AzureStaticWebAppDemo
+ ![Resource group name: Azure Static Web App Demo](https://user-images.githubusercontent.com/32169182/175283908-1295a754-5dec-4a9b-9f6f-3d6b6e3be03c.png)
+5. Give it a name, choose Free for the plan type and choose a location close to you
+![Name, plan, location and then Review + create](https://user-images.githubusercontent.com/32169182/175284149-935024bf-d909-4e45-9803-d1a17c6f49b0.png)
+6. Under deployment details choose GitHub, and 'Sign in with GitHub'
+7. Choose your organisation (your account), and your respository, you can leave Build presets blank, and then click 'Review + create'
+![Choose repository and organisation, blank bulid presets, 'Review + create'](https://user-images.githubusercontent.com/32169182/175284980-f1905c24-5052-45b8-81d8-7f859c841aae.png)
+8. Click 'Go to Resource' once it has finished deploying, and you should have a link which you can navigate to, to visit your website
+ ![Go to resource and website link](https://user-images.githubusercontent.com/32169182/175285525-9474a473-35d1-4ed6-a4f0-40e409140d37.png)
+ ![Live Azure Static Web App](https://user-images.githubusercontent.com/32169182/175285726-574904fd-ea8c-4c4a-8689-d21e7ba98904.png)
+
+9. Navigating to your respository you can see your action has been created for you, once it has finished running you can refresh the link you visited and it should be deployed
+![GitHub Action](https://user-images.githubusercontent.com/32169182/175285267-28494cce-9b10-427c-b1b5-857777b7d363.png)
+
+
+
+
+
+ 
+ 
  
