@@ -2,7 +2,9 @@
 
 Below are common issues faced by Student Ambassadors while completing the Technical Onboarding and possible solutions to some of them. This document has been authored by Darsh Manoj, Microsoft Learn Gold Student Ambassador.
  
-It is recommended that you watch the [Completing the Technical Onboarding video](https://stdntpartners.sharepoint.com/sites/MSPOpen2/Shared%20Documents/Ambassador%20Events/Recordings/Completing%20the%20Technical%20Onboarding-20220329_162029-Meeting%20Recording.mp4?web=1), which is a silent video that walks through the Azure part of the onboarding from scratch and might help resolve some of your issues.
+It is recommended that you watch the following videos:
+- [Completing the Technical Onboarding video](https://stdntpartners.sharepoint.com/sites/MSPOpen2/Shared%20Documents/Ambassador%20Events/Recordings/Completing%20the%20Technical%20Onboarding-20220329_162029-Meeting%20Recording.mp4?web=1) - a silent video that walks through the Azure part of the onboarding from scratch and might help resolve some of your issues
+- [Overview Video on GitHub Reviewing Pull Request Learning Lab](https://stdntpartners.sharepoint.com/:v:/s/ProgramInformation/EeXkn55RbatOkVkfI8njMJwBYbymBwOdcgt4OdwB7UYICw) - a recording of a training on the GitHub section of the Technical Onboarding
 
 ## You are unable to verify the university ID
 
