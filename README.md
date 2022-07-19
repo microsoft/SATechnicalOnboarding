@@ -17,6 +17,8 @@ As you are navigating the technical onboarding, please reference the [Technical 
 
 [Static Web Apps Video](https://docs.microsoft.com/en-gb/shows/azure-tips-and-tricks-static-web-apps/)
 
+[Overview Video on GitHub Section of Technical Onboarding](https://stdntpartners.sharepoint.com/:v:/s/ProgramInformation/EeXkn55RbatOkVkfI8njMJwBYbymBwOdcgt4OdwB7UYICw)
+
 ## Suggested Prerequisite Materials for Learning About GitHub
 	
 [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
