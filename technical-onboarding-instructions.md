@@ -125,17 +125,20 @@ We will now do a small customization step customize your webapp you can edit it 
 
 **Why do this section?**
   
-By completing this lab, you will learn the foundation of collaboration on GitHub – one of the most popular platforms for collaborative development. To cite the Learning Lab Directly, “This course will dive into how you can get your best work done by identifying when and how to request a review, how to perform a review for someone else's pull request, and other awesome collaboration methods. All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.” 
+By completing this Microsoft Learn Module, you will learn the foundation of collaboration on GitHub – one of the most popular platforms for collaborative development. To cite GitHub directly, “This course will dive into how you can get your best work done by identifying when and how to request a review, how to perform a review for someone else's pull request, and other awesome collaboration methods. All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.”  
 
-1. Navigate to the Reviewing Pull Requests Learning Lab and sign into your GitHub account to start the 200 Level GitHub training. 
+1. Navigate to the !["Manage repository changes by using pull requests on GitHub"](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/) Learn module  
 
-2. Select ‘Start free course’ and complete all course steps of the lab. 
+1. Complete all 5 units, including the exercise on GitHub in unit 3 and the Knowledge Check in unit 4. The exercise will require you to log in to your GitHub account 
 
-3. Navigate back to the Reviewing Pull Requests Lab page to confirm you have completed all course steps of the Lab. Input https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/reviewing-a-pull-request/pull/4 into the search bar of your browser to view the “change title on README #4” pull request, scroll down, and confirm that you see the following comment from the github-learning-lab bot at the end of the conversation in the pull request. 
+1. Navigate back to the Learn module page to confirm you have completed all steps of the module 
+
+1. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1`) with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
+ ![image](https://user-images.githubusercontent.com/21200448/187707103-86d5a5a2-fb0c-4037-90ff-8b0a085f13ab.png) 
 
 ## Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
 
-You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub Learning Lab, and your experience with this process. 
+You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub Learn module, and your experience with this process. 
  
 You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that 1) Your Student Ambassador Profile is updated with your GitHub Account, 2) Your GitHub web app / Online Resume is complete, and 3) Your Learning Lab is complete.  
 
@@ -164,11 +167,3 @@ Thank you for completing this exercise!
  ![Live Azure Static Web App](https://user-images.githubusercontent.com/32169182/175285726-574904fd-ea8c-4c4a-8689-d21e7ba98904.png)
 9. Navigating to your respository you can see your action has been created for you, once it has finished running you can refresh the link you visited and it should be deployed
 ![GitHub Action](https://user-images.githubusercontent.com/32169182/175285267-28494cce-9b10-427c-b1b5-857777b7d363.png)
-
-
-
-
-
- 
- 
- 
