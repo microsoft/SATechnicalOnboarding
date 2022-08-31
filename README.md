@@ -11,6 +11,8 @@ As you are navigating the technical onboarding, please reference the [Technical 
 
 [Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
 
+[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/)
+
 [Node.js Video](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
 
 [JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
@@ -31,8 +33,6 @@ As you are navigating the technical onboarding, please reference the [Technical 
 ## Additional Resources for Learning More About GitHub
 	
 [Manage Git branches and workflows](https://docs.microsoft.com/en-us/learn/modules/manage-git-branches-workflows/)
-	
-[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/)
 	
 [Settle competing commits by using merge conflict resolution on GitHub](https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/)
 	
