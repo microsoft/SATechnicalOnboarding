@@ -127,20 +127,21 @@ We will now do a small customization step customize your webapp you can edit it 
   
 By completing this Microsoft Learn Module, you will learn the foundation of collaboration on GitHub – one of the most popular platforms for collaborative development. To cite GitHub directly, “This course will dive into how you can get your best work done by identifying when and how to request a review, how to perform a review for someone else's pull request, and other awesome collaboration methods. All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.”  
 
-1. Navigate to the !["Manage repository changes by using pull requests on GitHub"](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/) Learn module  
+1. Navigate to the ["Manage repository changes by using pull requests on GitHub"](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/) Learn module  
 
 1. Complete all 5 units, including the exercise on GitHub in unit 3 and the Knowledge Check in unit 4. The exercise will require you to log in to your GitHub account 
 
 1. Navigate back to the Learn module page to confirm you have completed all steps of the module 
 
-1. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1`) with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
+1. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1` with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
  ![image](https://user-images.githubusercontent.com/21200448/187707103-86d5a5a2-fb0c-4037-90ff-8b0a085f13ab.png) 
 
 ## Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
 
-You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub Learn module, and your experience with this process. 
+You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub 
+ module, and your experience with this process. 
  
-You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that 1) Your Student Ambassador Profile is updated with your GitHub Account, 2) Your GitHub web app / Online Resume is complete, and 3) Your Learning Lab is complete.  
+You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that 1) Your Student Ambassador Profile is updated with your GitHub Account, 2) Your GitHub web app / Online Resume is complete, and 3) Your Github Learn module is complete.
 
 Thank you for completing this exercise!  
 
