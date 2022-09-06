@@ -138,8 +138,7 @@ By completing this Microsoft Learn Module, you will learn the foundation of coll
 
 ## Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
 
-You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub 
- module, and your experience with this process. 
+You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your webapp, the link to your final pull requests from the GitHub Learn module, and your experience with this process. 
  
 You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that 1) Your Student Ambassador Profile is updated with your GitHub Account, 2) Your GitHub web app / Online Resume is complete, and 3) Your Github Learn module is complete.
 
