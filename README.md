@@ -1,5 +1,5 @@
 # Future Ready Talent Project 2022
-This is the Project for the Future Ready Talent virtual internship.
+This is the Project for SA Technical Onboarding.
 
 ## Project Name: 
 # George De Couture
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/76419649/174551689-8266996e-b522-4a34-
 
 
 # Link to Repo:
-https://github.com/ayushigeorge/futurereadytalent_project
+https://github.com/ayushigeorge/-Introduction-to-github
 
 
 
