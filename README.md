@@ -1,44 +1,48 @@
-# Technical Onboarding Process
+# Future Ready Talent Project 2022
+This is the Project for the Future Ready Talent virtual internship.
 
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. This is as a template GitHub repo for Student Ambassadors to use in the technical onboarding experience.
+## Project Name: 
+# George De Couture
+- a fashion and lifestyle website for hair grooming.
+1. Our Solution:
+* Lifestyle grooming opportunity, booking appointments and availing services are never this easy
 
-By completing this Technical Onboarding Process, you will grow your skills with Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
- 
-As you are navigating the technical onboarding, please reference the [Technical Onboarding channel](https://teams.microsoft.com/l/channel/19%3a1564c0f5190c48cf87b6becbd8e67511%40thread.tacv2/Technical%2520Onboarding?groupId=37cfc127-05ad-4bd2-bc75-b9f32b9caa30&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f) in the Student Ambassador Teams tenant to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!
+2. About:
+* This responsive website about lifestyle is hosted and deployed on GitHub and Microsoft Azure.
+It intends to provide user hair grooming services and many of the services such as facial, hair cutting, etc.
+I have searched on various services in the field of lifestyle and parlors are the top most priority of everyone, hence it is beneficail all the seasons too.
+Its purpose is to provide the user the ease of booking a appointment and have hassle free grooming services.
 
-## Resources for Completing the Technical Onboarding
-[Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
+## Technology Used:
+Azure Service, Static Web Apps
 
-[Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
+## ScreenShots
+1. Screenshot of Landing Page
+![Screenshot1](https://user-images.githubusercontent.com/76419649/174546361-16566355-4737-4635-96a1-3e851e49fddb.jpg)
+2. Screenshot of footer:
+![screenshot2](https://user-images.githubusercontent.com/76419649/174546387-3e4493a0-ca71-4590-a578-b0f131b798ed.jpg)
+3. Screenshot of About Tab:
+![screenshot3](https://user-images.githubusercontent.com/76419649/174546567-14fcf472-aae0-4ad4-938a-d7d09a937c81.jpg)
 
-[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/)
-
-[Node.js Video](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
-
-[JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-
-[Static Web Apps Video](https://docs.microsoft.com/en-gb/shows/azure-tips-and-tricks-static-web-apps/)
-
-[Overview Video on GitHub Section of Technical Onboarding](https://stdntpartners.sharepoint.com/:v:/s/ProgramInformation/EeXkn55RbatOkVkfI8njMJwBYbymBwOdcgt4OdwB7UYICw)
-
-## Suggested Prerequisite Materials for Learning About GitHub
-	
-[Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
-	
-[Upload your project by using GitHub best practices](https://docs.microsoft.com/en-us/learn/modules/upload-project-github/)
-	
-[Communicate Effectively on GitHub by using Markdown](https://docs.microsoft.com/en-us/learn/modules/communicate-using-markdown/)
+![screenshot4](https://user-images.githubusercontent.com/76419649/174546578-86d1dcd9-2932-4b78-92db-f8d258738efa.jpg)
+4. Screenshot of Contact Us page:
+![screenshot5](https://user-images.githubusercontent.com/76419649/174546596-90eb9b90-f675-4c03-b94f-c1f5ca05c443.jpg)
 
 
-## Additional Resources for Learning More About GitHub
-	
-[Manage Git branches and workflows](https://docs.microsoft.com/en-us/learn/modules/manage-git-branches-workflows/)
-	
-[Settle competing commits by using merge conflict resolution on GitHub](https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/)
-	
-[Build and deploy applications to Azure by using GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/)
-	
-[Manage Source Control Learning Path](https://docs.microsoft.com/en-us/learn/paths/az-400-manage-source-control/)
+# Link to the  Website:
+George De Couture :https://jolly-ocean-053c9b410.1.azurestaticapps.net/contact.html
 
-# Thank you for completing the Technical Onboarding! 
-If you would like to provide feedback or suggestions, create an issue on this repository [with this link](https://github.com/microsoft/SATechnicalOnboarding/issues/new/) and we'll be sure to look into your suggestions! 😊
+# Video Demo Link:
+https://user-images.githubusercontent.com/76419649/174551689-8266996e-b522-4a34-9251-8c0371045908.mp4
+
+
+# Link to Repo:
+https://github.com/ayushigeorge/futurereadytalent_project
+
+
+
+
+
+
+
+
