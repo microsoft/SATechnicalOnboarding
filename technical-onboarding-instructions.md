@@ -7,9 +7,7 @@ To get started, complete the following items if you haven’t already
 
 - Create a [GitHub](https://github.com/) account  
 
-- Update your Microsoft Learn Student Ambassador Profile with your GitHub Account  
-
-- Instructions on updating your Student Ambassador Profile are available here 
+- Update your Microsoft Learn Student Ambassador Profile with your GitHub Account. [Learn how to update your profile here](https://stdntpartners.sharepoint.com/sites/SAProgramHandbook/SitePages/Navigating-the-Website.aspx)
 
 - Create an Azure for Students account or use your existing Azure Subscription if you have one (Alpha Student Ambassadors and above can redeem credits here: https://aka.ms/vsben)
 
