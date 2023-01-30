@@ -93,7 +93,7 @@ If your build has failed you may see this in your Actions tab on GitHub:
 
 ## Section 4: Customize Your Static Web App 
 
-**Why do this section? **
+**Why do this section?**
 
 With your app deployed, let’s turn our attention to updating it with your information. You want to add in your name, contact information, background, social media links, etc. You can do all of this in the HTML by modifying the provided template and replacing the various placeholders. For this exercise you will only update your name, but you should feel free to make whatever changes you might like! 
 
