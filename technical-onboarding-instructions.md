@@ -45,7 +45,7 @@ Previously you created a GitHub repository that housed the materials needed to c
 
 3. Open the URL tab 
 
-4. Input https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/SATechnicalOnboarding.git into the URL input, and select Clone 
+4. Input `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/SATechnicalOnboarding.git` into the URL input, and select Clone 
 
 Note: Make note of the location where the repository is saved.  
 
@@ -61,16 +61,16 @@ With the copy created locally, you’re all set to start working on your code an
 
 - Note: You are required to sign in to Azure and GitHub in Visual Studio Code to continue. If you are not already authenticated, the extension will prompt you to sign in to both services during the creation process. 
 
-3. Under the Static Web Apps label, select the plus sign. 
+3. Under the Static Web Apps label, select the plus `+` sign. 
 
 4. The command palette opens at the top of the editor and prompts you to select a subscription name. Select your subscription and press <Enter>. 
 
-5. Next, name your application. Type SATechnicalOnboarding and press <Enter>. 
+5. Next, name your application. Type `SATechnicalOnboarding` and press <Enter>. 
 
 5. Select a region close to you. 
 - Note: Azure Static Web Apps globally distributes your static assets. The region you select determines where your optional staging environments and API function app will be located. 
 
-6. Select Custom  Enter /src as the location for the application files and press <Enter>. This app does not produce a build output. Ensure the build output location is empty and press <Enter>. 
+6. Select Custom  Enter `/src` as the location for the application files and press <Enter>. This app does not produce a build output. Ensure the build output location is empty and press <Enter>. 
 
 7. Select “Open Actions in GitHub.” This will launch the GitHub Actions tab in your browser. You will see the workflow run as it is creating the app. When your webapp is built and deployed, you will see a check for the workflow run.   
 
@@ -86,7 +86,7 @@ If your build has failed you may see this in your Actions tab on GitHub:
  To fix this you can click the pencil icon beside the workflow run and click View workflow file
  ![View workflow file](https://user-images.githubusercontent.com/32169182/175279494-92985faa-a4aa-42b1-8f61-50cf5032816a.png)
  
- Then change line 30 to be /src instead of /
+ Then change line 30 to be `/src` instead of `/`
  ![Change app location](https://user-images.githubusercontent.com/32169182/175279576-fc87decb-99d0-41b7-8be3-ab9a56d9ca2a.png)
 
 
