@@ -4,7 +4,6 @@ Below are common issues faced by Student Ambassadors while completing the Techni
  
 It is recommended that you watch the following videos:
 - [Completing the Technical Onboarding video](https://stdntpartners.sharepoint.com/sites/MSPOpen2/Shared%20Documents/Ambassador%20Events/Recordings/Completing%20the%20Technical%20Onboarding-20220329_162029-Meeting%20Recording.mp4?web=1) - a silent video that walks through the Azure part of the onboarding from scratch and might help resolve some of your issues
-- [Overview Video on GitHub Reviewing Pull Request Learning Lab](https://stdntpartners.sharepoint.com/:v:/s/ProgramInformation/EeXkn55RbatOkVkfI8njMJwBYbymBwOdcgt4OdwB7UYICw) - a recording of a training on the GitHub section of the Technical Onboarding
 
 ## You are unable to verify the university ID
 
@@ -34,13 +33,13 @@ One possible cause for this is not having emptied the build location when asked.
 
 ## You aren't sure if you have completed the Technical Onboarding
 
-Ensure that you have completed the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U). If you're sure that you've completed the form, your Student Ambassador Comumunity Program Manager (CPM) will contact you regardless of if you have accurately completed the technical onboarding process). 
+Ensure that you have completed the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U). If you're sure that you've completed the form, your Student Ambassador Comumunity Program Manager (CPM) will contact you regardless of if you have accurately completed the technical onboarding process. 
 
 ## Your issue is something else or you're still stuck
 
-Create a post in the Technical Onboarding channel in the Student Ambassador Teams tenant that details the issue you are facing.
+[Open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues) that details the issue you are facing.
 
 - Make sure your post describes the issue clearly
-- Make sure you provide the steps taken to reach there (that is, what did you do)
+- Make sure you clearly define what you have already tried and the steps it took to get there
 - Make sure you provide relevant screenshots that describe the problem clearly
 
