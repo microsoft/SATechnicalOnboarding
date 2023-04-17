@@ -17,7 +17,7 @@ To get started, complete the following items if you haven’t already
 
 By completing this Technical Onboarding Process, you will grow your skills with Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
  
-As you are navigating technical onboarding, please reference Technical Onboarding GitHub Discussions to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
+As you are navigating technical onboarding, please reference [Technical Onboarding GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
 
 ## Section 1: Create a repository 
 
