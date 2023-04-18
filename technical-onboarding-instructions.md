@@ -9,21 +9,17 @@ To get started, complete the following items if you haven’t already
 
 - Update your Microsoft Learn Student Ambassador Profile with your GitHub Account. [Learn how to update your profile here](https://stdntpartners.sharepoint.com/sites/SAProgramHandbook/SitePages/Navigating-the-Website.aspx)
 
-- Create an Azure for Students account or use your existing Azure Subscription if you have one (Alpha Student Ambassadors and above can redeem credits here: https://aka.ms/vsben)
+- Create an [Azure for Students account](https://azure.microsoft.com/free/students) or use your existing Azure Subscription if you have one (Alpha Student Ambassadors and above can redeem credits here: https://aka.ms/vsben)
 
-- Download [Visual Studio Code](https://code.visualstudio.com/Download) and the [Azure Static Web Apps extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps) for Visual Studio Code 
-
-- Download [GitHub Desktop](https://desktop.github.com/)  
-
-By completing this Technical Onboarding Process, you will grow your skills with Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
+By completing this Technical Onboarding Process, you will grow your skills with Azure, you will become trained on the use of GitHub (including GitHub Codespaces and GitHub Copilot), you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
  
-As you are navigating technical onboarding, please reference [Technical Onboarding GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
+As you are navigating Technical Onboarding, please reference [Technical Onboarding GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
 
 ## Section 1: Create a repository 
 
 **Why do this section?**
 
-Microsoft Cloud Advocates have created a template GitHub repository (or repo) specially for Microsoft Learn Student Ambassadors to use for this technical onboarding experience. When you append /generate to the end of the repo URL, you are telling GitHub that you want to generate a new repository, and use the provided repo as a template for the repo you generate. This template repository has the content and styling definitions that allow you to create a web application that can serve as your online resume. 
+Microsoft Cloud Advocates have created a template GitHub repository (or repo) specially for Microsoft Learn Student Ambassadors to use for this Technical Onboarding experience. When you append /generate to the end of the repo URL, you are telling GitHub that you want to generate a new repository, and use the provided repo as a template for the repo you generate. This template repository has the content and styling definitions that allow you to create a web application that can serve as your online resume. 
 
 This article uses a GitHub template repository to make it easy for you to get started. The template features a starter app used to deploy using Azure Static Web Apps. 
 
