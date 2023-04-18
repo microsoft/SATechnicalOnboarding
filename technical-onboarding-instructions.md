@@ -52,7 +52,7 @@ By completing this Microsoft Learn Module, you will learn the foundation of coll
 1. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1` with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
  <img src="https://user-images.githubusercontent.com/21200448/187707103-86d5a5a2-fb0c-4037-90ff-8b0a085f13ab.png" width="500" /> 
 
-## Section 6: Submit your onboarding details, feedback, and get your certificate of completion 
+## Section 3: Submit your onboarding details, feedback, and get your certificate of completion 
 
 You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your Profile site, the link to your final pull requests from the GitHub Learn module, and your experience with this process. 
  
