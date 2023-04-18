@@ -7,19 +7,17 @@ By completing this Technical Onboarding Process, you will grow your skills with 
 As you are navigating the technical onboarding, please reference our [GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask any questions! If you encounter any issues, you can [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). Make sure to review other Ambassadors’ questions to help or get help! 
 
 ## Resources for Completing the Technical Onboarding
-[Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
+Start here ➡️➡️ [Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
 
 [Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
 
 [Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/)
 
-[Node.js Video](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
-
 [JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 [Static Web Apps Video](https://docs.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/)
 
-## Suggested Prerequisite Materials for Learning About GitHub
+## Suggested Materials for Learning About GitHub
 	
 [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/)
 	
