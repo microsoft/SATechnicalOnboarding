@@ -6,6 +6,8 @@ By completing this Technical Onboarding Process, you will grow your skills with 
  
 As you are navigating the technical onboarding, please reference our [GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask any questions! If you encounter any issues, you can [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). Make sure to review other Ambassadors’ questions to help or get help! 
 
+> Note: Technical Onboarding was updated on April 18, 2023. See this Discussions post for more details https://github.com/microsoft/SATechnicalOnboarding/discussions/27
+
 ## Resources for Completing the Technical Onboarding
 Start here ➡️➡️ [Technical Onboarding Instructions](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md)
 
