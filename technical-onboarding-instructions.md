@@ -19,6 +19,8 @@ By completing this Technical Onboarding Process, you will grow your skills with 
  
 As you are navigating Technical Onboarding, please reference [Technical Onboarding GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
 
+> Note: Technical Onboarding was updated on April 18, 2023. See this Discussions post for more details https://github.com/microsoft/SATechnicalOnboarding/discussions/27
+
 ## Section 1: Create your own JavaScript Portfolio Site with GitHub Codespaces and Copilot
 
 **Why do this section?**
