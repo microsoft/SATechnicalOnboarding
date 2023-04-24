@@ -13,12 +13,6 @@ Start here ➡️➡️ [Technical Onboarding Instructions](https://github.com/m
 
 [Technical Onboarding Troubleshooting Guide](https://github.com/microsoft/SATechnicalOnboarding/blob/main/troubleshooting-guide.md)
 
-[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/)
-
-[JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-
-[Static Web Apps Video](https://docs.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/)
-
 ## Suggested Materials for Learning About GitHub
 	
 [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/)
@@ -28,7 +22,13 @@ Start here ➡️➡️ [Technical Onboarding Instructions](https://github.com/m
 [Communicate Effectively on GitHub by using Markdown](https://docs.microsoft.com/learn/modules/communicate-using-markdown/)
 
 
-## Additional Resources for Learning More About GitHub
+## Additional Resources
+
+[Manage repository changes by using pull requests on GitHub](https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/)
+
+[JavaScript for Beginners Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
+[Static Web Apps Video](https://docs.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/)
 	
 [Manage Git branches and workflows](https://docs.microsoft.com/learn/modules/manage-git-branches-workflows/)
 	
