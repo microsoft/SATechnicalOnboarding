@@ -1,9 +1,4 @@
 
-# Technical Onboarding Instructions
-
-## Section 0: Prerequisites 
-
-To get started, complete the following items if you haven’t already 
 
 - Create a [GitHub](https://github.com/) account  
 
