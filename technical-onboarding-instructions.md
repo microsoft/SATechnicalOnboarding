@@ -25,7 +25,7 @@ As you are navigating Technical Onboarding, please reference [Technical Onboardi
 
 **Why do this section?**
 
-Microsoft Cloud Advocates have created a template GitHub repository (or repo) for Microsoft Learn Student Ambassadors to use for this Technical Onboarding experience. This template not only includes your own version of some starter code, but also an entire starter development envirornment in GitHub Codespaces. You don't have to do any setup yourself with the power of Codespaces, it's all done for you!
+Microsoft Cloud Advocates have created a template GitHub repository (or repo) for Microsoft Learn Student Ambassadors to use for this Technical Onboarding experience. This template not only includes your own version of some starter code, but also an entire starter development environment in GitHub Codespaces. You don't have to do any setup yourself with the power of Codespaces, it's all done for you!
 
 In this exercise you will:
 1. Set up your GitHub Codespace
