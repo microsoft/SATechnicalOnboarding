@@ -3,7 +3,7 @@
 
 ## Section 0: Prerequisites 
 
-To get started, complete the following items if you haven’t already 
+To get started, complete the following items if you haven’t already:
 
 - Create a [GitHub](https://github.com/) account  
 
@@ -11,11 +11,11 @@ To get started, complete the following items if you haven’t already
 
 - Create an [Azure for Students account](https://azure.microsoft.com/free/students) or use your existing Azure Subscription if you have one (Alpha Student Ambassadors and above can redeem credits here: https://aka.ms/vsben)
 
-By completing this Technical Onboarding Process, you will grow your skills with Azure, you will 
+By completing this Technical Onboarding Process, you will grow your skills with Azure, you will:
 * Become trained on the use of GitHub including GitHub Codespaces and GitHub Copilot
 * Complete one of the requirements for Student Ambassador program advancement
 * Create your very own personalized Portfolio website
-* and you will also get a certificate that will recognize your new technical abilities! 
+* Get a certificate that will recognize your new technical abilities! 
  
 As you are navigating Technical Onboarding, please reference [Technical Onboarding GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask questions and/or share issues you encounter. Make sure to review other Ambassadors’ questions to help or get help!  
 
@@ -29,14 +29,14 @@ Microsoft Cloud Advocates have created a template GitHub repository (or repo) fo
 
 In this exercise you will:
 1. Set up your GitHub Codespace
-1. Create your Portfolio site
-1. Customize your site with GitHub Copilot
-1. Explore how to deploy your site to the cloud with Azure Static Web Apps
-> A static web app (SWA) is a site built with JavaScript, HTML, CSS and potentially other tools, and SWAs are becoming increasingly common. Using Azure Static Web Apps will allow you to quickly post your Portfolio site to the world. Learn more about Static Web Apps in [this Microsoft Learn module](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/)
+2. Create your Portfolio site
+3. Customize your site with GitHub Copilot
+4. Explore how to deploy your site to the cloud with Azure Static Web Apps
+> A static web app (SWA) is a site built with JavaScript, HTML, CSS and potentially other tools, and SWAs are becoming increasingly common. Using Azure Static Web Apps will allow you to quickly post your Portfolio site to the world. Learn more about Static Web Apps in [this Microsoft Learn module](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/).
 
 You can find the template repository and instructions to create your own Portfolio site here: https://github.com/education/codespaces-project-template-js
 * Follow the instructions in this template repository
-* For Student Ambassador Technical Onboarding, you **must** choose the [Azure Static Web Apps option](https://github.com/education/codespaces-project-template-js#azure-static-web-apps) to  deploy your Portfolio site
+* For the Microsoft Learn Student Ambassador Technical Onboarding, you **must** choose the [Azure Static Web Apps option](https://github.com/education/codespaces-project-template-js#azure-static-web-apps) to  deploy your Portfolio site
 * You will have to submit the url to your customized Profile site to complete [the Technical Onboarding completion form](https://forms.office.com/r/UnJgmjap4U)
 
 ## Section 2: Complete Your Next Step in GitHub Training with Reviewing Pull Requests 
@@ -47,18 +47,21 @@ By completing this Microsoft Learn Module, you will learn the foundation of coll
 
 1. Navigate to the ["Manage repository changes by using pull requests on GitHub"](https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/) Learn module  
 
-1. Complete all 5 units, including the exercise on GitHub in unit 3 and the Knowledge Check in unit 4. The exercise will require you to log in to your GitHub account 
+2. Complete all 5 units, including the exercise on GitHub in unit 3 and the Knowledge Check in unit 4. The exercise will require you to log in to your GitHub account 
 
-1. Navigate back to the Learn module page to confirm you have completed all steps of the module 
+3. Navigate back to the Learn module page to confirm you have completed all steps of the module 
 
-1. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1` with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
+4. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1` with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
  <img src="https://user-images.githubusercontent.com/21200448/187707103-86d5a5a2-fb0c-4037-90ff-8b0a085f13ab.png" width="500" /> 
 
 ## Section 3: Submit your onboarding details, feedback, and get your certificate of completion 
 
 You’ve made it to the end! The last step is to fill out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U) (using your @studentambassadors account) to provide a few details about you, your Profile site, the link to your final pull requests from the GitHub Learn module, and your experience with this process. 
  
-You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that 1) Your Student Ambassador Profile is updated with your GitHub Account, 2) Your Portfolio site is complete and deployed with Azure Static Web Apps, and 3) Your Github Learn module is complete.
+You will be advanced to the Beta milestone (once you have also hosted an event or actively participated in a social impact league project) after a Program Team member verifies that:
+1. Your Student Ambassador Profile is updated with your GitHub Account
+2. Your Portfolio site is complete and deployed with Azure Static Web Apps
+3. Your Github Learn module is complete.
 
 Thank you for completing this exercise!  
 
