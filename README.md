@@ -1,10 +1,10 @@
 # Technical Onboarding Process
 
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. This is as a template GitHub repo for Student Ambassadors to use in the technical onboarding experience.
+Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. This is a template GitHub repository for Student Ambassadors to use in the technical onboarding experience.
 
-By completing this Technical Onboarding Process, you will grow your skills with Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
+By completing this Technical Onboarding Process, you will grow your skills with Microsoft Azure, you will become trained on the use of GitHub, you will complete one of the requirements for program advancement, and you will also get a certificate that will recognize your new technical abilities! 
  
-As you are navigating the technical onboarding, please reference our [GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask any questions! If you encounter any issues, you can [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). Make sure to review other Ambassadors’ questions to help or get help! 
+As you are navigating this technical onboarding, please reference our [GitHub Discussions](https://github.com/microsoft/SATechnicalOnboarding/discussions) to ask any questions! If you encounter any issues, you can [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). Make sure to review other Ambassadors’ questions to help or get help! 
 
 > Note: Technical Onboarding was updated on April 18, 2023. See this Discussions post for more details https://github.com/microsoft/SATechnicalOnboarding/discussions/27
 
