@@ -84,8 +84,12 @@ Thank you for completing this exercise!
 6. Under deployment details choose GitHub, and 'Sign in with GitHub'
 7. Choose your organisation (your account), and your respository, you can leave Build presets blank, and then click 'Review + create'
 * <img src="https://user-images.githubusercontent.com/32169182/175284980-f1905c24-5052-45b8-81d8-7f859c841aae.png" width="500" />
-8. Click 'Go to Resource' once it has finished deploying, and you should have a link which you can navigate to, to visit your website
+8. Choose `React` as your Build Preset
+* ![Change Build Presite](https://github.com/microsoft/SATechnicalOnboarding/assets/101401469/0ef7bcb2-3937-4f26-9834-38fae18c5b19)
+9. Change the output location from the default `build` to `dist`
+* ![Change Build location](https://github.com/microsoft/SATechnicalOnboarding/assets/101401469/0f067bff-607c-4186-b36b-834bbad46d97)
+10. Click 'Go to Resource' once it has finished deploying, and you should have a link which you can navigate to, to visit your website
  * <img src="https://user-images.githubusercontent.com/32169182/175285525-9474a473-35d1-4ed6-a4f0-40e409140d37.png" width="700" />
  * <img src="https://user-images.githubusercontent.com/32169182/175285726-574904fd-ea8c-4c4a-8689-d21e7ba98904.png" width="500" />
-9. Navigating to your respository you can see your action has been created for you, once it has finished running you can refresh the link you visited and it should be deployed
+11. Navigating to your respository you can see your action has been created for you, once it has finished running you can refresh the link you visited and it should be deployed
 * <img src="https://user-images.githubusercontent.com/32169182/175285267-28494cce-9b10-427c-b1b5-857777b7d363.png" width="600" />
