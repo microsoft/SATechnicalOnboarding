@@ -49,7 +49,8 @@ By completing this Microsoft Learn Module, you will learn the foundation of coll
 
 2. Complete all 5 units, including the exercise on GitHub in unit 3 and the Knowledge Check in unit 4. The exercise will require you to log in to your GitHub account 
 
-3. Navigate back to the Learn module page to confirm you have completed all steps of the module 
+3. Navigate back to the Learn module page to confirm you have completed all steps of the module which will look like the image below:
+<img src="https://github.com/microsoft/SATechnicalOnboarding/assets/66111735/6f74d0c4-abff-4c73-9dc3-e95833f2f6ca" width="500" /> 
 
 4. Confirm that the pull request you have been interacting with has been merged on GitHub. The URL will be `https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/introduction-to-github/pull/1` with the title “Update the game over message”. You should see the “Merged” status at the top of your pull request like the image below: 
  <img src="https://user-images.githubusercontent.com/21200448/187707103-86d5a5a2-fb0c-4037-90ff-8b0a085f13ab.png" width="500" /> 
