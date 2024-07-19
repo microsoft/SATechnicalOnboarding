@@ -30,10 +30,10 @@ For troubleshooting, check out our [Technical Onboarding Troubleshooting Guide](
 | JavaScript for Beginners Video | [Watch Video](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) |
 | Static Web Apps Video | [Watch Video](https://docs.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/) |
 | Manage Git branches and workflows | [Learn More](https://docs.microsoft.com/learn/modules/manage-git-branches-workflows/) |
-| Settle competing commits by using merge conflict resolution on GitHub | [Learn More](https://docs.microsoft.com/learn/modules/resolve-merge-conflicts-github/) |
-| Build and deploy applications to Azure by using GitHub Actions | [Learn More](https://docs.microsoft.com/learn/modules/github-actions-cd/) |
-| Manage Source Control Learning Path | [Learn More](https://docs.microsoft.com/learn/paths/az-400-manage-source-control/) |
-
+| Settle competing commits by using merge conflict resolution on GitHub | [Learn More](https://learn.microsoft.com/training/modules/resolve-merge-conflicts-github/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
+| Build and deploy applications to Azure by using GitHub Actions | [Learn More](https://learn.microsoft.com/training/modules/github-actions-cd/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
+| Manage Source Control Learning Path | [Learn More](https://learn.microsoft.com/training/paths/az-400-manage-source-control/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
+| GitHub Copilot: Your AI pair programmer | [Learn More](https://learn.microsoft.com/training/paths/copilot/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
 
 # 🎉 Thank You for Completing the Technical Onboarding!
 If you would like to provide feedback or suggestions, please [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). We look forward to your suggestions! 😊
