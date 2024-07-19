@@ -34,7 +34,7 @@ In this exercise you will:
 4. Explore how to deploy your site to the cloud with Azure Static Web Apps
 > A static web app (SWA) is a site built with JavaScript, HTML, CSS and potentially other tools, and SWAs are becoming increasingly common. Using Azure Static Web Apps will allow you to quickly post your Portfolio site to the world. Learn more about Static Web Apps in [this Microsoft Learn module](https://learn.microsoft.com/en-us/training/paths/azure-static-web-apps/).
 
-You can find the template repository and instructions to create your own Portfolio site here: https://github.com/education/codespaces-project-template-js
+You can find the template repository and instructions to create your own Portfolio site here: https://github.com/github-education-resources/codespaces-project-template-js
 * Follow the instructions in this template repository
 * For the Microsoft Learn Student Ambassador Technical Onboarding, you **must** choose the [Azure Static Web Apps option](https://github.com/education/codespaces-project-template-js#azure-static-web-apps) to  deploy your Portfolio site
 * You will have to submit the url to your customized Profile site to complete [the Technical Onboarding completion form](https://forms.office.com/r/UnJgmjap4U)
