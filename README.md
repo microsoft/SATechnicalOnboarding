@@ -35,5 +35,5 @@ For troubleshooting, check out our [Technical Onboarding Troubleshooting Guide](
 | Manage Source Control Learning Path | [Learn More](https://learn.microsoft.com/training/paths/az-400-manage-source-control/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
 | GitHub Copilot: Your AI pair programmer | [Learn More](https://learn.microsoft.com/training/paths/copilot/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) |
 
-# 🎉 Thank You for Completing the Technical Onboarding!
+## 🎉 Thank You for Completing the Technical Onboarding!
 If you would like to provide feedback or suggestions, please [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues). We look forward to your suggestions! 😊
