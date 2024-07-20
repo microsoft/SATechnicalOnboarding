@@ -1,0 +1,30 @@
+name: Assign Issues
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign issues based on labels
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const labels = issue.labels.map(label => label.name);
+
+            if (labels.includes('feedback')) {
+              await github.issues.addAssignees({
+                ...context.repo,
+                issue_number: issue.number,
+                assignees: ['SalemTracey']
+              });
+            } else {
+              await github.issues.addAssignees({
+                ...context.repo,
+                issue_number: issue.number,
+                assignees: ['AnthonyByansi']
+              });
+            }
