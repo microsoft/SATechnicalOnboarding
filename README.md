@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/MSLearn_SA_badge_generic_rgb_300ppi.png" alt="Microsoft Fabric Exploratorium" width="200"/>
+  <img src="assets/MSLearn_SA_badge_generic_rgb_300ppi.png" alt="Microsoft Fabric Exploratorium" width="300"/>
   <h1>Technical Onboarding Process</h1>
 </div>
 
