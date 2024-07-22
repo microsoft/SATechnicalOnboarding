@@ -1,6 +1,9 @@
-# 🚀 Technical Onboarding Process
+<div align="center">
+  <img src="assets/MSLearn_SA_badge_generic_rgb_300ppi.png" alt="Microsoft Fabric Exploratorium" width="200"/>
+  <h1>Technical Onboarding Process</h1>
+</div>
 
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process! This is a template repository for Student Ambassadors to use in their technical onboarding experience.
+🚀 Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process! This is a template repository for Student Ambassadors to use in their technical onboarding experience.
 
 By completing this Technical Onboarding Process, you will:
 - 🌐 Grow your skills with Microsoft Azure
