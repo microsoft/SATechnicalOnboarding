@@ -1,27 +1,30 @@
-# Technical Onboarding Troubleshooting Guide
+# 🛠️ Technical Onboarding Troubleshooting Guide 
 
-Below are common issues faced by Student Ambassadors while completing the Technical Onboarding and possible solutions to some of them. This document has been authored by Darsh Manoj, Microsoft Learn Gold Student Ambassador.
+This document provides solutions to common issues faced by Student Ambassadors during Technical Onboarding. Authored by Darsh Manoj, Microsoft Learn Gold Student Ambassador.
 
-## You are unable to verify the university ID
+## 🎓 Unable to Verify University ID 
 
-This happens when you try to sign up for Azure for Students but receive an error saying that the university ID is not valid. 
- 
-The best way to get around this is to first get to the Alpha level. Despite what it may seem like, you do not need to complete Technical Onboarding to get Alpha status – it’s needed only for Beta. Once you get to the Alpha level, you can then easily use your Student Ambassador account to proceed as normal.
+When signing up for Azure for Students, you may encounter an error indicating that your university ID is not valid. 
 
-## You are asked to enter credit card details
+**Solution:**
+> To resolve this, first achieve Alpha status. Technical Onboarding is only required for Beta status, not Alpha. Once you attain Alpha level, you can proceed using your Student Ambassador account as usual.
 
-This happens when you try to sign up for the Azure trial offer. 
- 
-Stop. You're in the wrong place. Go back and either sign up for [Azure for Students](https://azure.microsoft.com/free/students/), or get to the Alpha level and then use your Azure subscription.
+## 💳 Asked to Enter Credit Card Details 
 
-## You aren't sure if you have completed the Technical Onboarding
+You might be prompted to enter credit card details when attempting to sign up for the Azure trial offer.
 
-Ensure that you have completed the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U). If you're sure that you've completed the form, your Student Ambassador Comumunity Program Manager (CPM) will contact you regardless of if you have accurately completed the technical onboarding process. 
+**Solution:**
+> Stop and go back. You are in the wrong place. Either sign up for [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) or get to the Alpha level and then use your Azure subscription.
 
-## Your issue is something else or you're still stuck
+## ✅ Unsure if You Have Completed Technical Onboarding 
 
-[Open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues) that details the issue you are facing.
+> To confirm completion of Technical Onboarding, ensure you have filled out the [Onboarding Completion Form](https://forms.office.com/r/UnJgmjap4U). If you have completed the form, your Student Ambassador Community Program Manager (CPM) will contact you regardless of the status of your technical onboarding process.
 
-- Make sure your post describes the issue clearly
-- Make sure you clearly define what you have already tried and the steps it took to get there
-- Make sure you provide relevant screenshots that describe the problem clearly
+## ❓Other Issues or Still Stuck 
+
+If your issue is different or persists, [open a GitHub Issue](https://github.com/microsoft/SATechnicalOnboarding/issues) detailing your problem.
+
+**Guidelines for Posting:**
+- Clearly describe the issue.
+- Define what you have already tried and the steps taken.
+- Provide relevant screenshots to illustrate the problem.
