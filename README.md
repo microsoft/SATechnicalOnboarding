@@ -3,6 +3,8 @@
   <h1>Technical Onboarding Process</h1>
 </div>
 
+*As of July 2024, the technical onboarding requirement for the Microsoft Learn Student Ambassadors program is retired.* 
+
 🚀 Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process! This is a template repository for Student Ambassadors to use in their technical onboarding experience.
 
 By completing this Technical Onboarding Process, you will:
